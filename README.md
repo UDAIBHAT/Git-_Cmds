@@ -65,3 +65,23 @@ ___
 | `git log --summary` | View changes (detailed) |
 | `git log --oneline` | View changes (briefly) |
 | `git diff [source branch] [target branch]` | Preview changes before merging |
+
+### Adding Repo {Udai_Method}
+
+| Command | Description |
+| ------- | ----------- |
+| `git init` | Initialize a local Git repository |
+| `git add *` | It will add all the listed files|
+| `git commit -m "[commit message]"` | Commit changes |
+|` git branch -M main` | setting branch to Main|
+| `git remote add origin ssh://git@github.com/[username]/[repository-name].git` | Add a remote repository |
+|`git push -u origin main` | Pushing files to Main Branch | 
+
+
+
+
+
+
+
+
+
